@@ -1,0 +1,33 @@
+{
+  "Application Details": {
+    "Reference No": "8820",
+    "Contract Period": "2 Years Contract",
+    "Nationality": "Ethiopia",
+    "Monthly Salary": 0
+  },
+  "Worker Details": {
+    "Full Name": "SAMRAWIT WERKYE GEBREAMLAK",
+    "Gender": "Female",
+    "Religion": "Christian",
+    "Martial Status": "Single",
+    "Date of Birth": "11/15/1999",
+    "Age": 25,
+    "Weight/Height": "50/5ft - 152cm",
+    "Degree": "Primary",
+    "Language Details": {
+      "Amharic": "Excellent"
+    },
+    "Experience and Skills": {
+      "Cooking": "No",
+      "Cleaning": "Yes",
+      "Baby Sitting": "Yes"
+    }
+  },
+  "Passport Details": {
+    "Passport No": "EQ1291545",
+    "Issuing Country": "Ethiopia",
+    "Place of Issue": "ADDIS ABEBA",
+    "Date Issued": "12/14/2024",
+    "Date Expiry": "12/13/2029"
+  }
+}
